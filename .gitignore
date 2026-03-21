@@ -1,0 +1,11 @@
+# 忽略课程内的大型教材文件
+courses/**/*.pdf
+courses/**/*.epub
+courses/**/*.mp4
+
+# 忽略数据集
+courses/**/data/
+
+# 系统文件
+.DS_Store
+Thumbs.db
